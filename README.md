@@ -40,7 +40,7 @@ java -cp target/classes edu.escuelaing.arsw.ASE.app.LineCounter loc src/main/jav
 #  Running the test
 For the tests, we have to tests files, Test1.java and Test2.java; Thanks to the tool junit, we runs 4 tests that shows the correct operation of the program.
 Let's see throug the mvn test command:
-![alt image](resources.png)
+![alt image](resources/tests.png)
 And it´s working perfectly
 
 
