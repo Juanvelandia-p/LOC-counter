@@ -3,6 +3,7 @@ Juan Sebastian Velandia
 12/06/2025
 
 This is a little java program that counts the Lines of Code of a source file, with two options, the physical lines, i mean, all the lines of the document, including comments and void lines, by otherside, the LOC counts just the logical and meaningful lines.
+The LOC/h to this little proyect, counting test and more, roound about 15 LOC/h
 
 #  LineCounter
 
